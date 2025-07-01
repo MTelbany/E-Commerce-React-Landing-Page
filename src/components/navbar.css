@@ -1,0 +1,6 @@
+.navbar-container {
+    background-color: antiquewhite;
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
